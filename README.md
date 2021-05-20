@@ -28,11 +28,13 @@ requests were submitted via cURL:
 ![Screen Shot 2021-05-20 at 20 31 10](https://user-images.githubusercontent.com/71552393/119035520-f376da00-b9af-11eb-8313-3f6fd37425ab.png)
 
 
+
+
 ![Screen Shot 2021-05-20 at 20 39 47](https://user-images.githubusercontent.com/71552393/119035537-f70a6100-b9af-11eb-8078-e2f46703a599.png)
 
 
 
-$ python simple_request.py 
+Results: 
 1. beagle: 0.9726
 2. Walker_hound: 0.0060
 3. pot: 0.0043
