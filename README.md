@@ -25,10 +25,11 @@ Using TensorFlow backend.
 Of course, the API is no longer live as these would be costly for me to up keep! However, 
 requests were submitted via cURL:
 
-![Screen Shot 2021-05-20 at 20 32 41](https://user-images.githubusercontent.com/71552393/119035114-7f3c3680-b9af-11eb-8c48-f7003b38e636.png)
+![Screen Shot 2021-05-20 at 20 31 10](https://user-images.githubusercontent.com/71552393/119035520-f376da00-b9af-11eb-8313-3f6fd37425ab.png)
 
 
-![Screen Shot 2021-05-20 at 20 33 06](https://user-images.githubusercontent.com/71552393/119035011-63389500-b9af-11eb-9a6c-fed64083c5a8.png)
+![Screen Shot 2021-05-20 at 20 39 47](https://user-images.githubusercontent.com/71552393/119035537-f70a6100-b9af-11eb-8078-e2f46703a599.png)
+
 
 
 $ python simple_request.py 
