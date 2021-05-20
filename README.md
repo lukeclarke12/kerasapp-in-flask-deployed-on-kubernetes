@@ -25,11 +25,16 @@ Using TensorFlow backend.
 Of course, the API is no longer live as these would be costly for me to up keep! However, 
 requests were submitted via cURL:
 
+![Screen Shot 2021-05-20 at 20 32 41](https://user-images.githubusercontent.com/71552393/119035114-7f3c3680-b9af-11eb-8c48-f7003b38e636.png)
+
+
+![Screen Shot 2021-05-20 at 20 33 06](https://user-images.githubusercontent.com/71552393/119035011-63389500-b9af-11eb-9a6c-fed64083c5a8.png)
+
 
 $ python simple_request.py 
-1. beagle: 0.9901
-2. Walker_hound: 0.0024
-3. pot: 0.0014
-4. Brittany_spaniel: 0.0013
-5. bluetick: 0.0011
-```
+1. beagle: 0.9726
+2. Walker_hound: 0.0060
+3. pot: 0.0043
+4. bluetick: 0.0024
+5. Basset: 0.0019
+
