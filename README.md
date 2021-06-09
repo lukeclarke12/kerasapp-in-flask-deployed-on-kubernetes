@@ -1,6 +1,6 @@
-# A Keras deep learning REST API built using Flask and deployed on Kubernetes
+# A Keras REST API built using Flask and deployed on Kubernetes
 
-In this project I created a deep learning REST API using the ResNet50 model (which has been trained on ImageNet) and Flask. I then dockerized this application and deployed on Kubernetes so it could be publically accessed on a scalable and reliable cluster.
+In this project I created a REST API using the ResNet50 model (which has been trained on ImageNet) and Flask. I then dockerized this application and deployed on Kubernetes so it could be publically accessed on a scalable and reliable cluster.
 
 
 ## Starting the Keras server locally
